@@ -1,1 +1,1 @@
-# zabbix-agent
+#ansible-playbook zabbix.yml
