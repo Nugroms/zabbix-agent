@@ -1,1 +1,1 @@
-#ansible-playbook zabbix.yml
+#ansible-playbook zabbix_playbook.yml
